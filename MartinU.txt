@@ -9,7 +9,6 @@
 - En applikationsserver är huvudlänken mellan client-side och server-side kod, som är designad att, precis som det låter, hosta applikationer och information till slutanvändaren.
 
 
-
 <Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett 
 utvecklingsprojekt>
 
