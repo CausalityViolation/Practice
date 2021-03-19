@@ -1,0 +1,16 @@
+Vilka filer bör finnas i .gitignore? (Ange 2-4 st)?:
+====================================================
+* Filer som inte är relevanta för ditt aktuella projekt
+* Filer som kan innehålla känslig information exempelvis användarnamn eller lösenord
+* Filer som används av ditt OS t ex Thumbs.db (windows) eller .DS_storage(mac)=
+* Applikationsfiler som genereras och används av applikationer på din dator är sällan relevanta för någon annan än dig själv och bör därför exkluderas.
+
+
+Vad är en applikationsserver och varför behövs den?:
+====================================================
+En applikationsserver kan hosta applikationer som användarsidan kan få tillgång till samtidigt som den hanterar mer server-specifik kod vilken inte är relevant för användaren. 
+
+
+Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett användarprojekt?:
+========================================================================
+Även om de flesta större IDEs idag är relativt likvärdiga kan det vara praktiskt att ha en diskussion kring detta innan man startar ett nytt projekt för att säkerställa att de IDE ni använder fyller de specifika funktioner ni behöver för det aktuella projektet. Detta kan t ex vara specifika plugins tillgängliga till ett specifikt IDE som bara är kompatibla med vissa IDEer.
